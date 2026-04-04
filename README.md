@@ -30,8 +30,8 @@ Azure, Git, GitHub
 ---
 
 ## 🌐 Connect With Me
-<p align="center">
-  <a href="mailto:vatsalgajera-tech@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/vatsalgajera/">LinkedIn</a> •
-  <a href="https://www.instagram.com/gajera_vatsal_/">Instagram</a>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/vatsalgajera/  
+- 📧 Email: vatsalgajera-tech@gmail.com  
+- 📸 Instagram: https://www.instagram.com/gajera_vatsal_/  
+
+---
