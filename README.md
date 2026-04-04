@@ -26,7 +26,7 @@ Azure, Git, GitHub
 ## 🚀 Projects
 - 🛒 **Student Management System** 
 - 🤖 **Hotel Management System**
-- 
+
 ---
 
 ## 🌐 Connect With Me
