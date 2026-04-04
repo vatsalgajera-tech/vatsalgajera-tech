@@ -1,27 +1,25 @@
-<h1 align="center">Hi 👋, I'm Vatsal Gajera</h1>
+<h1 align="center">Hey, I'm Vatsal Gajera</h1>
 
-<h3 align="center">💻 MERN Stack Developer | 🤖 Aspiring AI/ML Engineer</h3>
+<h3 align="center">💻 Python Developer | 🤖 Aspiring MERN Technologies</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Python+Developer;AI/ML+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;AI/ML+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=45">
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- 🚀 MERN Stack Developer building real-world projects  
-- 🤖 Exploring AI/ML & Emotion Detection  
-- 🛒 Currently working on an eCommerce platform  
-- 📈 Goal: Full Stack Developer + AI Engineer  
-- 🌍 Love Traveling & Cars 🚗  
-
----
-
 ## 🛠️ Tech Stack
-**Frontend:** React, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, SQL  
-**Languages:** JavaScript, Python  
+**🌐 Frontend:**  
+HTML, CSS, JavaScript  
+
+**⚙️ Backend:**  
+Node.js, Express.js, Django  
+
+**🗄️ Databases:**  
+MongoDB, MySQL
+
+**☁️ Cloud & Tools:**  
+Azure, Git, GitHub   
 
 ---
 
