@@ -3,7 +3,7 @@
 <h3 align="center">💻 MERN Stack Developer | 🤖 Aspiring AI/ML Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;Python+Developer;AI/ML+Enthusiast;Building+Real+World+Projects&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Developer;MERN+Stack+Developer;AI/ML+Enthusiast;&center=true&width=500&height=45">
 </p>
 
 ---
