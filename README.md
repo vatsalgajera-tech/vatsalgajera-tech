@@ -2,7 +2,7 @@
 <h3 align="center">💻 Python Developer | 🌐 MERN Stack Developer | 🗄️ MySQL Engineer | 🤖 AI/ML Aspirant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;MERN+Stack+Developer;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=550&height=35">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;MERN+Stack+Developer;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=650&height=45">
 </p>
 
 <!-- <p align="center">
@@ -14,7 +14,7 @@
   <img
     src="https://camo.githubusercontent.com/c467199e55326b2d77006db0f8c94f4e68a9909e24e027777a9d08664abca1e7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966"
     alt="Coding GIF"
-    width="500"
+    width="300"
   />
 </p>
 ---
