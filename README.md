@@ -13,10 +13,9 @@
 ## 🚀 About Me
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at Dharmsinh Desai University
-- 💻 Skilled in **Python, Django, MERN Stack, and MySQL**
-- 🌱 Currently exploring **AI/ML**, **Data Science**, and advanced backend development
+- 💻 Skilled in **Python, MERN Stack, and MySQL**
+- 🌱 Currently exploring **AI/ML** and **Data Science**
 - 🛠️ Passionate about building scalable, real-world web applications
-- 🚀 Goal: To become an **AI/ML Engineer** and **Full-Stack Developer**
 
 ---
 
