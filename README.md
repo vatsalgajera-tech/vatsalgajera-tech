@@ -126,7 +126,7 @@ A web application to manage room bookings, customer records, and hotel administr
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/vatsalgajera/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
