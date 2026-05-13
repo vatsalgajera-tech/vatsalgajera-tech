@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vatsal Gajera</h1>
-<h3 align="center">💻 Python Developer | 🌐 MERN Stack Developer | 🗄️ MySQL Enthusiast | 🤖 AI/ML Aspirant</h3>
+<h3 align="center">💻 Python Developer | 🌐 MERN Stack Developer | 🗄️ MySQL Engineer | 🤖 AI/ML Aspirant</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;MERN+Stack+Developer;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=650&height=45">
 </p>
-
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat">
     <img src="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -16,7 +15,7 @@
 ## 🚀 About Me
 
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at **Dharmsinh Desai University**
-- 💻 Skilled in **Python, Django, MERN Stack, and MySQL**
+- 💻 Skilled in **Python, MERN Stack, and MySQL**
 - 🌱 Currently exploring **Artificial Intelligence, Machine Learning, and Data Science**
 - 🛠️ Passionate about building scalable and real-world web application
 
