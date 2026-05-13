@@ -113,7 +113,7 @@ A full-stack web application for managing:
 - 📚 Courses & Subjects
 - 📂 Study Materials
 
-🔗 **Live Demo:** [Nexus University Management System](https://nexus-university-management-system.vercel.app/)
+<!-- 🔗 **Live Demo:** [Nexus University Management System](https://nexus-university-management-system.vercel.app/) -->
 
 ⚙️ **Deployment:** Vercel (Frontend) • Render (Backend) • MongoDB Atlas (Database)
 
