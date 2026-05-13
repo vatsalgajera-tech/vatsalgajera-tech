@@ -86,11 +86,12 @@
 <a href="https://render.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=render" />
 </a>
+  <a href="https://render.com/" target="_blank">
+    <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48" />
+  </a>
 <a href="https://azure.microsoft.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=azure" />
 </a>
-
-</p>
 
 ---
 
