@@ -1,96 +1,135 @@
-<h1 align="center">Hey, I'm Vatsal Gajera 👋</h1>
-
-<h3 align="center">
-💻 Python Developer | 🌐 MERN Stack Developer | 🗄️ MySQL Enthusiast | 🤖 AI/ML Aspirant
-</h3>
+<h1 align="center">Hi 👋, I'm Vatsal Gajera</h1>
+<h3 align="center">💻 Python Developer | 🌐 MERN Stack Developer | 🗄️ MySQL Enthusiast | 🤖 AI/ML Aspirant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;MERN+Stack+Developer;MySQL+Enthusiast;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=600&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;MERN+Stack+Developer;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=650&height=45">
+</p>
+
+<p align="center">
+  <a href="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat">
+    <img src="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing **Master of Computer Applications (MCA)** at Dharmsinh Desai University
-- 💻 Skilled in **Python, MERN Stack, and MySQL**
-- 🌱 Currently exploring **AI/ML** and **Data Science**
-- 🛠️ Passionate about building scalable, real-world web applications
+- 🎓 Pursuing **Master of Computer Applications (MCA)** at **Dharmsinh Desai University**
+- 💻 Skilled in **Python, Django, MERN Stack, and MySQL**
+- 🌱 Currently exploring **Artificial Intelligence, Machine Learning, and Data Science**
+- 🛠️ Passionate about building scalable and real-world web applications
+- 🎯 Goal: To become an **AI/ML Engineer** and **Full-Stack Developer**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React.js
-- Tailwind CSS
+<p align="center">
 
-### ⚙️ Backend
-- Python
-- Django
-- Node.js
-- Express.js
+<!-- Frontend -->
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+  <img src="https://skillicons.dev/icons?i=html" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+  <img src="https://skillicons.dev/icons?i=css" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
+<a href="https://react.dev/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=react" />
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+</a>
 
-### 🗄️ Databases
-- MySQL
-- MongoDB
+<!-- Backend -->
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" />
+</a>
+<a href="https://nodejs.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+</a>
+<a href="https://expressjs.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=express" />
+</a>
 
-### ☁️ Cloud & Tools
-- GitHub
-- Azure
-- Vercel
-- Render
-- Jupyter Notebook
-- VS Code
+<!-- Databases -->
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</a>
+
+<!-- Tools -->
+<a href="https://git-scm.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git" />
+</a>
+<a href="https://github.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
+</a>
+<a href="https://vercel.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vercel" />
+</a>
+<a href="https://render.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=render" />
+</a>
+<a href="https://azure.microsoft.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=azure" />
+</a>
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🎓 University Management System
-A full-stack web application for managing students, faculty, admissions, notices, leaves, course-subjects and Study materials.
-Live Demo : <a href="https://nexus-university-management-system.vercel.app/" target="_blank"> Nexus University Management System </a>
-**Deployment Tools:** Vercel(Frontend), Render(Backend) and MongoDB Atlas(Database)
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+### 🎓 Nexus University Management System
 
-### 🏨 Hotel Management System
-A web application to manage room bookings, customer records, and administrative operations.
-**Tech Stack:** Python, Django, MySQL
+A full-stack web application for managing:
+
+- 👨‍🎓 Students
+- 👨‍🏫 Faculty
+- 📝 Admissions
+- 📢 Notices
+- 🏖️ Leave Requests
+- 📚 Courses & Subjects
+- 📂 Study Materials
+
+🔗 **Live Demo:** [Nexus University Management System](https://nexus-university-management-system.vercel.app/)
+
+⚙️ **Deployment:** Vercel (Frontend) • Render (Backend) • MongoDB Atlas (Database)
+
+🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ---
 
-## 📊 GitHub Stats
+### 🏨 Hotel Management System
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VatsalGajera&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+A web application to manage room bookings, customer records, and hotel administration.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VatsalGajera&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalGajera&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
+🛠️ **Tech Stack:** Python, Django, MySQL
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/vatsalgajera/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vatsal%20Gajera-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Vatsal%20Gajera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  
   <a href="mailto:vatsalgajera-tech@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-
   <a href="https://www.instagram.com/gajera_vatsal_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@gajera__vatsal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
-
