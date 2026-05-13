@@ -9,7 +9,13 @@
     <img src="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
 </p> -->
-
+<p align="center">
+  <img
+    src="https://camo.githubusercontent.com/c467199e55326b2d77006db0f8c94f4e68a9909e24e027777a9d08664abca1e7/68747470733a2f2f6d656469612e74656e6f722e636f6d2f595a506e477550655a763841414141642f636f64696e672e676966"
+    alt="Coding GIF"
+    width="500"
+  />
+</p>
 ---
 
 ## 🚀 About Me
