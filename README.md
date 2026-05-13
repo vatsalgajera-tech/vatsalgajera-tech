@@ -39,9 +39,10 @@
 - MongoDB
 
 ### ☁️ Cloud & Tools
-- Git
 - GitHub
 - Azure
+- Vercel
+- Render
 - Jupyter Notebook
 - VS Code
 
@@ -51,7 +52,8 @@
 
 ### 🎓 University Management System
 A full-stack web application for managing students, faculty, admissions, notices, leaves, course-subjects and Study materials.
-Live Demo : <a href="https://nexus-university-management-system.vercel.app/" target="_blank">
+Live Demo : <a href="https://nexus-university-management-system.vercel.app/" target="_blank"> Nexus University Management System </a>
+**Deployment Tools:** Vercel(Frontend), Render(Backend) and MongoDB Atlas(Database)
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ### 🏨 Hotel Management System
@@ -92,10 +94,3 @@ A web application to manage room bookings, customer records, and administrative 
   </a>
 </p>
 
----
-
-## ✨ Fun Fact
-
-> "Code, Learn, Build, Repeat 🚀"
-
----
