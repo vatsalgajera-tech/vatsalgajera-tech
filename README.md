@@ -42,32 +42,21 @@
 - Git
 - GitHub
 - Azure
-- Postman
+- Jupyter Notebook
 - VS Code
-
-### 🤖 Currently Learning
-- Machine Learning
-- Data Science
-- Deep Learning
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎓 University Management System
-A full-stack web application for managing students, faculty, admissions, notices, and documents.
-
+A full-stack web application for managing students, faculty, admissions, notices, leaves, course-subjects and Study materials.
+Live Demo : <a href="https://nexus-university-management-system.vercel.app/" target="_blank">
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
 
 ### 🏨 Hotel Management System
 A web application to manage room bookings, customer records, and administrative operations.
-
 **Tech Stack:** Python, Django, MySQL
-
-### 🛒 E-Commerce Website
-A modern MERN stack online store with authentication, product management, and payment integration.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB
 
 ---
 
