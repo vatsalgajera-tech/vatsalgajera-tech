@@ -18,8 +18,7 @@
 - 🎓 Pursuing **Master of Computer Applications (MCA)** at **Dharmsinh Desai University**
 - 💻 Skilled in **Python, Django, MERN Stack, and MySQL**
 - 🌱 Currently exploring **Artificial Intelligence, Machine Learning, and Data Science**
-- 🛠️ Passionate about building scalable and real-world web applications
-- 🎯 Goal: To become an **AI/ML Engineer** and **Full-Stack Developer**
+- 🛠️ Passionate about building scalable and real-world web application
 
 ---
 
@@ -28,6 +27,7 @@
 <p align="center">
 
 <!-- Frontend -->
+### 🌐 Frontend
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" />
 </a>
@@ -43,8 +43,10 @@
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </a>
+<br>
 
 <!-- Backend -->
+### ⚙️ Backend
 <a href="https://www.python.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=python" />
 </a>
@@ -57,8 +59,10 @@
 <a href="https://expressjs.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=express" />
 </a>
+<br>
 
 <!-- Databases -->
+### 🗄️ Databases
 <a href="https://www.mysql.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mysql" />
 </a>
@@ -67,6 +71,7 @@
 </a>
 
 <!-- Tools -->
+### ☁️ Cloud & Tools
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" />
 </a>
