@@ -126,7 +126,7 @@ A web application to manage room bookings, customer records, and hotel administr
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=VatsalGajera&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VatsalGajera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
 </p>
