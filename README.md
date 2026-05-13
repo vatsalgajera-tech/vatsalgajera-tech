@@ -2,8 +2,9 @@
 <h3 align="center">💻 Python Developer | 🌐 MERN Stack Developer | 🗄️ MySQL Engineer | 🤖 AI/ML Aspirant</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;MERN+Stack+Developer;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;MERN+Stack+Developer;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=550&height=35">
 </p>
+
 <!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat">
     <img src="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
