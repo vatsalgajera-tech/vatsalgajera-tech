@@ -5,11 +5,11 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Python+Developer;MERN+Stack+Developer;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=650&height=45">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat">
     <img src="https://komarev.com/ghpvc/?username=VatsalGajera&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-</p>
+</p> -->
 
 ---
 
@@ -142,17 +142,5 @@ A web application to manage room bookings, customer records, and hotel administr
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/gajera_vatsal_/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vatsalgajera/">LinkedIn</a> •
-  <a href="mailto:vatsalgajera-tech@gmail.com">Email</a> •
-  <a href="https://github.com/VatsalGajera">GitHub</a> •
-  <a href="https://www.instagram.com/gajera_vatsal_/">Instagram</a>
-</p>s.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/gajera_vatsal_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-@gajera__vatsal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
