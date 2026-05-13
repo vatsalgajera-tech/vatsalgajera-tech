@@ -125,14 +125,32 @@ A web application to manage room bookings, customer records, and hotel administr
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
 <p align="center">
   <a href="https://www.linkedin.com/in/vatsalgajera/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Vatsal%20Gajera-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:vatsalgajera-tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/VatsalGajera" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/gajera_vatsal_/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/vatsalgajera/">LinkedIn</a> •
+  <a href="mailto:vatsalgajera-tech@gmail.com">Email</a> •
+  <a href="https://github.com/VatsalGajera">GitHub</a> •
+  <a href="https://www.instagram.com/gajera_vatsal_/">Instagram</a>
+</p>s.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/gajera_vatsal_/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-@gajera__vatsal-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
