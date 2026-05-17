@@ -137,6 +137,8 @@ A comprehensive web application to manage student records and administrative tas
 
 A web application to manage room bookings, customer records, and hotel administration.
 
+🔗 **Repository:** [Hotel-Management-System](https://github.com/vatsalgajera-tech/Hotel-Management-System)
+
 🛠️ **Tech Stack:** Python, Django, MySQL
 
 ---
