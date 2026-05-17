@@ -103,43 +103,57 @@
 
 ### 🎓 Nexus University Management System
 
-A full-stack web application for managing:
+A full-stack web application designed to streamline university operations with role-based dashboards for **Admin**, **Professor**, and **Student**.
 
-- 👨‍🎓 Students
-- 👨‍🏫 Faculty
-- 📝 Admissions
-- 📢 Notices
-- 🏖️ Leave Requests
-- 📚 Courses & Subjects
-- 📂 Study Materials
+#### ✨ Key Features:
+- 👨‍🎓 **Student Module** - Registration, view courses, check attendance & results
+- 👨‍🏫 **Professor Module** - Manage courses, upload materials, track attendance
+- 👨‍💼 **Admin Module** - Manage users, courses, subjects, and academic data
+- 🔐 **JWT Authentication & Authorization**
+- 📁 **File Upload Handling** with Multer
+- 📊 **Dashboard Analytics**
 
 🔗 **Repository:** [University-Management-System](https://github.com/vatsalgajera-tech/University-Management-System)
 
-<!-- 🔗 **Live Demo:** [Nexus University Management System](https://nexus-university-management-system.vercel.app/) -->
-
 ⚙️ **Deployment:** Vercel (Frontend) • Render (Backend) • MongoDB Atlas (Database)
 
-🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Vite, JWT
 
 ---
 
 ### 📚 Student Management System
 
-A comprehensive web application to manage student records and administrative tasks.
+A web-based application designed to simplify academic record management with features for student registration, course management, and administrative operations.
+
+#### ✨ Key Features:
+- 👨‍🎓 **Student Module** - Registration, manage personal info, course selection
+- 📚 **Course Module** - Add, update, delete courses
+- 📝 **Subject Module** - Assign and manage subjects
+- 🔐 **Secure Admin Login & Dashboard**
+- 🔍 **Search & Filter Student Records**
+- 📋 **CRUD Operations** for all entities
 
 🔗 **Repository:** [Student-Management-System](https://github.com/vatsalgajera-tech/Student-Management-System)
 
-🛠️ **Tech Stack:** Python, Django, MySQL
+🛠️ **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript (ES6), Bootstrap 5
 
 ---
 
 ### 🏨 Hotel Management System
 
-A web application to manage room bookings, customer records, and hotel administration.
+A web-based application that allows users to book rooms online and enables administrators to manage bookings, payments, and customer information.
+
+#### ✨ Key Features:
+- 👤 **User Module** - Registration, login, browse rooms, online booking
+- 💳 **Secure Payment Page** with payment tracking
+- 🛎️ **Booking History** and profile management
+- 🛠️ **Admin Module** - Manage bookings, generate bills, track payments
+- 📊 **Admin Dashboard** for hotel administration
+- 👥 **Customer Management** and support
 
 🔗 **Repository:** [Hotel-Management-System](https://github.com/vatsalgajera-tech/Hotel-Management-System)
 
-🛠️ **Tech Stack:** Python, Django, MySQL
+🛠️ **Tech Stack:** Python, Django 5.x, MySQL, HTML5, CSS3, JavaScript (ES6), Bootstrap 5
 
 ---
 
