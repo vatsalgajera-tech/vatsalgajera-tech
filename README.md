@@ -110,6 +110,7 @@
 - 👨‍🏫 Professor Course Management & Material Upload
 - 👨‍💼 Admin User & Academic Data Management
 - 🔐 JWT Authentication & Authorization
+- 📃 Leave, Notice Management
 - 📁 File Upload Handling
 - 📊 Dashboard Analytics
 
@@ -127,15 +128,14 @@
 
 #### ✨ Key Features:
 - 👨‍🎓 Student Registration & Profile Management
-- 📚 Course Management (Add, Update, Delete)
-- 📝 Subject Assignment & Management
+- 📚 Course Management
+- 📝 Subject Management
 - 🔐 Secure Admin Login & Dashboard
-- 🔍 Search & Filter Student Records
 - 📋 CRUD Operations
 
 🔗 **Repository:** [Student-Management-System](https://github.com/vatsalgajera-tech/Student-Management-System)
 
-🛠️ **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript (ES6), Bootstrap 5
+🛠️ **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript , Bootstrap
 
 ---
 
@@ -145,7 +145,7 @@
 
 #### ✨ Key Features:
 - 👤 User Registration & Room Browsing
-- 💳 Online Booking & Secure Payment Processing
+- 💳 Online Booking
 - 🛎️ Booking History & Profile Management
 - 🛠️ Admin Booking Management
 - 📊 Admin Dashboard & Bill Generation
@@ -153,7 +153,7 @@
 
 🔗 **Repository:** [Hotel-Management-System](https://github.com/vatsalgajera-tech/Hotel-Management-System)
 
-🛠️ **Tech Stack:** Python, Django 5.x, MySQL, HTML5, CSS3, JavaScript (ES6), Bootstrap 5
+🛠️ **Tech Stack:** Python, Django, MySQL, HTML5, CSS3, JavaScript, Bootstrap
 
 ---
 
