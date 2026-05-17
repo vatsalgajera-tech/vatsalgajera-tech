@@ -113,11 +113,23 @@ A full-stack web application for managing:
 - 📚 Courses & Subjects
 - 📂 Study Materials
 
+🔗 **Repository:** [University-Management-System](https://github.com/vatsalgajera-tech/University-Management-System)
+
 <!-- 🔗 **Live Demo:** [Nexus University Management System](https://nexus-university-management-system.vercel.app/) -->
 
 ⚙️ **Deployment:** Vercel (Frontend) • Render (Backend) • MongoDB Atlas (Database)
 
 🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS
+
+---
+
+### 📚 Student Management System
+
+A comprehensive web application to manage student records and administrative tasks.
+
+🔗 **Repository:** [Student-Management-System](https://github.com/vatsalgajera-tech/Student-Management-System)
+
+🛠️ **Tech Stack:** Python, Django, MySQL
 
 ---
 
