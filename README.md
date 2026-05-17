@@ -103,15 +103,15 @@
 
 ### 🎓 Nexus University Management System
 
-A full-stack web application designed to streamline university operations with role-based dashboards for **Admin**, **Professor**, and **Student**.
+📌 **Streamline university operations with role-based dashboards for Admin, Professor, and Student.**
 
 #### ✨ Key Features:
-- 👨‍🎓 **Student Module** - Registration, view courses, check attendance & results
-- 👨‍🏫 **Professor Module** - Manage courses, upload materials, track attendance
-- 👨‍💼 **Admin Module** - Manage users, courses, subjects, and academic data
-- 🔐 **JWT Authentication & Authorization**
-- 📁 **File Upload Handling** with Multer
-- 📊 **Dashboard Analytics**
+- 👨‍🎓 Student Registration & Course Enrollment
+- 👨‍🏫 Professor Course Management & Material Upload
+- 👨‍💼 Admin User & Academic Data Management
+- 🔐 JWT Authentication & Authorization
+- 📁 File Upload Handling
+- 📊 Dashboard Analytics
 
 🔗 **Repository:** [University-Management-System](https://github.com/vatsalgajera-tech/University-Management-System)
 
@@ -123,15 +123,15 @@ A full-stack web application designed to streamline university operations with r
 
 ### 📚 Student Management System
 
-A web-based application designed to simplify academic record management with features for student registration, course management, and administrative operations.
+📌 **Simplify academic record management with student registration, course and subject management.**
 
 #### ✨ Key Features:
-- 👨‍🎓 **Student Module** - Registration, manage personal info, course selection
-- 📚 **Course Module** - Add, update, delete courses
-- 📝 **Subject Module** - Assign and manage subjects
-- 🔐 **Secure Admin Login & Dashboard**
-- 🔍 **Search & Filter Student Records**
-- 📋 **CRUD Operations** for all entities
+- 👨‍🎓 Student Registration & Profile Management
+- 📚 Course Management (Add, Update, Delete)
+- 📝 Subject Assignment & Management
+- 🔐 Secure Admin Login & Dashboard
+- 🔍 Search & Filter Student Records
+- 📋 CRUD Operations
 
 🔗 **Repository:** [Student-Management-System](https://github.com/vatsalgajera-tech/Student-Management-System)
 
@@ -141,15 +141,15 @@ A web-based application designed to simplify academic record management with fea
 
 ### 🏨 Hotel Management System
 
-A web-based application that allows users to book rooms online and enables administrators to manage bookings, payments, and customer information.
+📌 **Manage room bookings and hotel administration with online booking and payment tracking.**
 
 #### ✨ Key Features:
-- 👤 **User Module** - Registration, login, browse rooms, online booking
-- 💳 **Secure Payment Page** with payment tracking
-- 🛎️ **Booking History** and profile management
-- 🛠️ **Admin Module** - Manage bookings, generate bills, track payments
-- 📊 **Admin Dashboard** for hotel administration
-- 👥 **Customer Management** and support
+- 👤 User Registration & Room Browsing
+- 💳 Online Booking & Secure Payment Processing
+- 🛎️ Booking History & Profile Management
+- 🛠️ Admin Booking Management
+- 📊 Admin Dashboard & Bill Generation
+- 👥 Customer Management
 
 🔗 **Repository:** [Hotel-Management-System](https://github.com/vatsalgajera-tech/Hotel-Management-System)
 
