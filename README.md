@@ -32,49 +32,87 @@
 
 <p align="center">
 
-<!-- Frontend -->
-### 🌐 Frontend
+<!-- Languages -->
+### 💻 Languages
+<a href="https://www.python.org/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=python" />
+</a>
+<a href="https://www.java.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=java" />
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://skillicons.dev/icons?i=html" />
 </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://skillicons.dev/icons?i=css" />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=javascript" />
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </a>
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="48" height="48" />
+</a>
+
+<br>
+
+<!-- Frontend -->
+### 🌐 Frontend
 <a href="https://react.dev/" target="_blank">
   <img src="https://skillicons.dev/icons?i=react" />
 </a>
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </a>
+
 <br>
 
 <!-- Backend -->
 ### ⚙️ Backend
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" />
-</a>
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=django" />
-</a>
 <a href="https://nodejs.org/" target="_blank">
   <img src="https://skillicons.dev/icons?i=nodejs" />
 </a>
 <a href="https://expressjs.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=express" />
 </a>
+<a href="https://www.djangoproject.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=django" />
+</a>
+
 <br>
 
 <!-- Databases -->
 ### 🗄️ Databases
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</a>
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </a>
+<a href="https://www.mongodb.com/atlas" target="_blank">
+  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB Atlas" width="48" height="48" />
+</a>
+
+<br>
+
+<!-- AI / ML -->
+### 🤖 AI / ML
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="48" height="48" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48" />
+</a>
+<a href="https://matplotlib.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Matplotlib" width="48" height="48" />
+</a>
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="48" height="48" />
+</a>
+<a href="https://www.tensorflow.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="48" height="48" />
+</a>
+
+<br>
 
 <!-- Tools -->
 ### ☁️ Cloud & Tools
@@ -87,15 +125,17 @@
 <a href="https://code.visualstudio.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vscode" />
 </a>
+<a href="https://www.postman.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=postman" />
+</a>
 <a href="https://vercel.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" />
 </a>
 <a href="https://render.com/" target="_blank">
-    <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48" />
+  <img src="https://cdn.simpleicons.org/render/46E3B7" alt="Render" width="48" height="48" />
 </a>
-<a href="https://azure.microsoft.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=azure" />
-</a>
+
+</p>
 
 ---
 
