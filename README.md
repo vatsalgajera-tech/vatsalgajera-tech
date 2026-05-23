@@ -133,7 +133,7 @@ Role-based university management platform for Admins, Professors, and Students w
 🔗 Repository:  
 https://github.com/vatsalgajera-tech/University-Management-System
 
--
+--
 
 ## 📚 Student Management System
 
@@ -144,7 +144,7 @@ Academic management system for handling students, courses, subjects, and admin o
 🔗 Repository:  
 https://github.com/vatsalgajera-tech/Student-Management-System
 
--
+--
 
 ## 🏨 Hotel Management System
 
@@ -155,7 +155,7 @@ Hotel booking and management platform with room reservations, admin dashboard, b
 🔗 Repository:  
 https://github.com/vatsalgajera-tech/Hotel-Management-System
 
--
+--
 
 ## 🛒 Shree Vastra – eCommerce Website
 
@@ -166,7 +166,7 @@ Full-stack MERN eCommerce platform featuring OTP authentication, Razorpay integr
 🔗 Repository:  
 https://github.com/vatsalgajera-tech/eCommerce-Website
 
--
+--
 
 ## 🎬 Netflix Clone
 
