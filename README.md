@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vatsal Gajera</h1>
+<h1 align="center">Hey 👋, I'm Vatsal Gajera</h1>
 
 <h3 align="center">
 💻 Full Stack Developer | 🌐 Python Developer | 🤖 AI/ML Explorer
