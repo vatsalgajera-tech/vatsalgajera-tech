@@ -49,12 +49,6 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
   <img src="https://skillicons.dev/icons?i=css" />
 </a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-<a href="https://www.sqlite.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="48" height="48" />
-</a>
 
 <br>
 
@@ -85,48 +79,31 @@
 
 <!-- Databases -->
 ### 🗄️ Databases
+<a href="https://www.mysql.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</a>
 <a href="https://www.mongodb.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=mongodb" />
 </a>
-<a href="https://www.mongodb.com/atlas" target="_blank">
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" alt="MongoDB Atlas" width="48" height="48" />
-</a>
-
-<br>
-
-<!-- AI / ML -->
-### 🤖 AI / ML
-<a href="https://numpy.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/numpy/013243" alt="NumPy" width="48" height="48" />
-</a>
-<a href="https://pandas.pydata.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/pandas/150458" alt="Pandas" width="48" height="48" />
-</a>
-<a href="https://matplotlib.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/python/3776AB" alt="Matplotlib" width="48" height="48" />
-</a>
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="Scikit-learn" width="48" height="48" />
-</a>
-<a href="https://www.tensorflow.org/" target="_blank">
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" alt="TensorFlow" width="48" height="48" />
+<a href="https://www.sqlite.org/" target="_blank">
+  <img src="https://cdn.simpleicons.org/sqlite/003B57" alt="SQLite" width="48" height="48" />
 </a>
 
 <br>
 
 <!-- Tools -->
-### ☁️ Cloud & Tools
+### ☁️ Tools & Platforms
 <a href="https://git-scm.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=git" />
 </a>
 <a href="https://github.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
-<a href="https://code.visualstudio.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=vscode" />
-</a>
 <a href="https://www.postman.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=postman" />
+</a>
+<a href="https://code.visualstudio.com/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=vscode" />
 </a>
 <a href="https://vercel.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=vercel" />
@@ -136,7 +113,6 @@
 </a>
 
 </p>
-
 ---
 
 ## 🚀 Featured Projects
