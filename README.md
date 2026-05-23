@@ -130,16 +130,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=vatsalgajera-tech&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vatsalgajera-tech&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 # 🚀 Featured Projects
 
 ## 🎓 Nexus University Management System
@@ -197,31 +187,11 @@ https://github.com/vatsalgajera-tech/Netflix-Clone
 
 ---
 
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/leetcode/FFA116" width="48" height="48" />
-</a>
-
-<a href="https://codeforces.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" width="48" height="48" />
-</a>
-
-<a href="https://www.codechef.com/" target="_blank">
-  <img src="https://cdn.simpleicons.org/codechef/5B4638" width="48" height="48" />
-</a>
-
-</p>
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/vatsalgajera-tech" target="_blank">
+<a href="https://github.com/vatsalgajera-tech" target="_blank" style="margin-right:10px;">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
