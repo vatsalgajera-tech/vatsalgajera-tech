@@ -102,58 +102,47 @@
 ## 🚀 Featured Projects
 
 ### 🎓 Nexus University Management System
+Role-based university management platform for Admins, Professors, and Students with authentication, dashboards, course management, notices, and file uploads.
 
-📌 **Streamline university operations with role-based dashboards for Admin, Professor, and Student.**
+🛠️ Tech Stack: React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
 
-#### ✨ Key Features:
-- 👨‍🎓 Student Registration & Course Enrollment
-- 👨‍🏫 Professor Course Management & Material Upload
-- 👨‍💼 Admin User & Academic Data Management
-- 🔐 JWT Authentication & Authorization
-- 📃 Leave, Notice Management
-- 📁 File Upload Handling
-- 📊 Dashboard Analytics
-
-🔗 **Repository:** [University-Management-System](https://github.com/vatsalgajera-tech/University-Management-System)
-
-⚙️ **Deployment:** Vercel (Frontend) • Render (Backend) • MongoDB Atlas (Database)
-
-🛠️ **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, Vite, JWT
+🔗 Repository: https://github.com/vatsalgajera-tech/University-Management-System
 
 ---
 
 ### 📚 Student Management System
+Academic management system for handling students, courses, subjects, and admin operations with full CRUD functionality.
 
-📌 **Simplify academic record management with student registration, course and subject management.**
+🛠️ Tech Stack: PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap
 
-#### ✨ Key Features:
-- 👨‍🎓 Student Registration & Profile Management
-- 📚 Course Management
-- 📝 Subject Management
-- 🔐 Secure Admin Login & Dashboard
-- 📋 CRUD Operations
-
-🔗 **Repository:** [Student-Management-System](https://github.com/vatsalgajera-tech/Student-Management-System)
-
-🛠️ **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript , Bootstrap
+🔗 Repository: https://github.com/vatsalgajera-tech/Student-Management-System
 
 ---
 
 ### 🏨 Hotel Management System
+Hotel booking and management platform with room reservations, admin dashboard, billing, and customer management.
 
-📌 **Manage room bookings and hotel administration with online booking and payment tracking.**
+🛠️ Tech Stack: Python, Django, MySQL, HTML5, CSS3, JavaScript, Bootstrap
 
-#### ✨ Key Features:
-- 👤 User Registration & Room Browsing
-- 💳 Online Booking
-- 🛎️ Booking History & Profile Management
-- 🛠️ Admin Booking Management
-- 📊 Admin Dashboard & Bill Generation
-- 👥 Customer Management
+🔗 Repository: https://github.com/vatsalgajera-tech/Hotel-Management-System
 
-🔗 **Repository:** [Hotel-Management-System](https://github.com/vatsalgajera-tech/Hotel-Management-System)
+---
 
-🛠️ **Tech Stack:** Python, Django, MySQL, HTML5, CSS3, JavaScript, Bootstrap
+### 🛒 Shree Vastra – eCommerce Website
+Full-stack women’s ethnic fashion eCommerce platform featuring authentication, OTP login, product management, cart, order tracking, Razorpay payments, and admin functionalities.
+
+🛠️ Tech Stack: React.js, Vite, Tailwind CSS, Redux Toolkit, Node.js, Express.js, MongoDB Atlas, Cloudinary, Razorpay
+
+🔗 Repository: https://github.com/vatsalgajera-tech/eCommerce-Website
+
+---
+
+### 🎬 Netflix Clone
+Full-stack Netflix-inspired streaming platform with user authentication, watchlists, video streaming, search functionality, and custom admin dashboard for managing movies and series.
+
+🛠️ Tech Stack: Python, Django, SQLite, HTML5, CSS3, JavaScript
+
+🔗 Repository: https://github.com/vatsalgajera-tech/Netflix-Clone
 
 ---
 
