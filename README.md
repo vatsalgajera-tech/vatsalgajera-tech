@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vatsal Gajera</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🌐 MERN Stack Enthusiast | 🤖 AI/ML Explorer
+💻 Full Stack Developer | 🌐 Python Developer | 🤖 AI/ML Explorer
 </h3>
 
 <p align="center">
@@ -54,8 +54,6 @@
   <img src="https://skillicons.dev/icons?i=css" />
 </a>
 
----
-
 <h3>🌐 Frontend</h3>
 
 <a href="https://react.dev/" target="_blank">
@@ -65,8 +63,6 @@
 <a href="https://tailwindcss.com/" target="_blank">
   <img src="https://skillicons.dev/icons?i=tailwind" />
 </a>
-
----
 
 <h3>⚙️ Backend</h3>
 
@@ -82,8 +78,6 @@
   <img src="https://skillicons.dev/icons?i=django" />
 </a>
 
----
-
 <h3>🗄️ Databases</h3>
 
 <a href="https://www.mysql.com/" target="_blank">
@@ -97,8 +91,6 @@
 <a href="https://www.sqlite.org/" target="_blank">
   <img src="https://cdn.simpleicons.org/sqlite/003B57" width="48" height="48" />
 </a>
-
----
 
 <h3>☁️ Tools & Platforms</h3>
 
@@ -141,7 +133,7 @@ Role-based university management platform for Admins, Professors, and Students w
 🔗 Repository:  
 https://github.com/vatsalgajera-tech/University-Management-System
 
----
+--
 
 ## 📚 Student Management System
 
@@ -152,7 +144,7 @@ Academic management system for handling students, courses, subjects, and admin o
 🔗 Repository:  
 https://github.com/vatsalgajera-tech/Student-Management-System
 
----
+--
 
 ## 🏨 Hotel Management System
 
@@ -163,7 +155,7 @@ Hotel booking and management platform with room reservations, admin dashboard, b
 🔗 Repository:  
 https://github.com/vatsalgajera-tech/Hotel-Management-System
 
----
+--
 
 ## 🛒 Shree Vastra – eCommerce Website
 
@@ -174,7 +166,7 @@ Full-stack MERN eCommerce platform featuring OTP authentication, Razorpay integr
 🔗 Repository:  
 https://github.com/vatsalgajera-tech/eCommerce-Website
 
----
+--
 
 ## 🎬 Netflix Clone
 
@@ -191,7 +183,7 @@ https://github.com/vatsalgajera-tech/Netflix-Clone
 
 <p align="center">
 
-<a href="https://github.com/vatsalgajera-tech" target="_blank" style="margin-right:10px;">
+<a href="https://github.com/vatsalgajera-tech" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
