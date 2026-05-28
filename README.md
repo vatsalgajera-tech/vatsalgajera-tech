@@ -130,12 +130,14 @@ Role-based university management platform for Admins, Professors, and Students w
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
 
-🔗 Repository:  
-https://github.com/vatsalgajera-tech/University-Management-System
-🔴 Live Demo:
-universitymanagement-project.vercel.app
+🔗 Repository: https://github.com/vatsalgajera-tech/University-Management-System
+
+🔴 Live Demo: https://universitymanagement-project.vercel.app
+
 Student Login Credentials :
+
 Mail - vatsalgajera2005@gmail.com
+
 Password - vatsal123
 
 --
@@ -146,8 +148,7 @@ Academic management system for handling students, courses, subjects, and admin o
 
 **Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap
 
-🔗 Repository:  
-https://github.com/vatsalgajera-tech/Student-Management-System
+🔗 Repository: https://github.com/vatsalgajera-tech/Student-Management-System
 
 --
 
@@ -157,8 +158,7 @@ Hotel booking and management platform with room reservations, admin dashboard, b
 
 **Tech Stack:** Python, Django, MySQL, HTML5, CSS3, JavaScript, Bootstrap
 
-🔗 Repository:  
-https://github.com/vatsalgajera-tech/Hotel-Management-System
+🔗 Repository: https://github.com/vatsalgajera-tech/Hotel-Management-System
 
 --
 
@@ -168,8 +168,7 @@ Full-stack MERN eCommerce platform featuring OTP authentication, Razorpay integr
 
 **Tech Stack:** React.js, Vite, Tailwind CSS, Redux Toolkit, Node.js, Express.js, MongoDB Atlas
 
-🔗 Repository:  
-https://github.com/vatsalgajera-tech/eCommerce-Website
+🔗 Repository: https://github.com/vatsalgajera-tech/eCommerce-Website
 
 --
 
@@ -179,8 +178,7 @@ Netflix-inspired streaming platform with authentication, watchlists, video strea
 
 **Tech Stack:** Python, Django, SQLite, HTML5, CSS3, JavaScript
 
-🔗 Repository:  
-https://github.com/vatsalgajera-tech/Netflix-Clone
+🔗 Repository: https://github.com/vatsalgajera-tech/Netflix-Clone
 
 ---
 
