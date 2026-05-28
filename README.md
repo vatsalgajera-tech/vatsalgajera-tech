@@ -132,7 +132,7 @@ Role-based university management platform for Admins, Professors, and Students w
 
 🔗 Repository: https://github.com/vatsalgajera-tech/University-Management-System
 
-🔴 Live Demo: https://universitymanagement-project.vercel.app
+🔴 Live Demo: https://nexusuniversity.vercel.app/
 
 Student Login Credentials :
 
