@@ -33,7 +33,7 @@
 
 
 ---
-# 💻 Tech Arsenal
+# ⚡ Technologies & Tools
 
 ### Languages
 <p>
@@ -77,6 +77,7 @@
 <p>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
 ### Currently Exploring
