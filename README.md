@@ -91,69 +91,57 @@
 
 # 🚀 Featured Projects
 
+# 🚀 Featured Projects
+
 ## 🏆 VendorBridge AI
+AI-powered Procurement & Vendor Management ERP for RFQs, quotations, approvals, purchase orders, invoices, and analytics.
 
-AI-powered Procurement ERP platform, VendorBridge AI streamlines the complete procurement lifecycle by enabling organizations to manage vendors, create RFQs, compare quotations, process approvals, generate purchase orders, create invoices, and track procurement activities from a centralized platform.
+**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT Authentication
-
-🔗 Repository: https://github.com/vatsalgajera-tech/Hackathon-2026
-
---
-
-## 🎓 Nexus University Management System
-
-Role-based university management platform for Admins, Professors, and Students with authentication, dashboards, course management, notices, and file uploads.
-
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT Authentication
-
-🔗 Repository: https://github.com/vatsalgajera-tech/University-Management-System
-
-🔴 Live Demo: https://nexusuniversity.vercel.app/
-
-**Student Login Credentials :** `vatsalgajera2005@gmail.com` and `vatsal123`
-
---
-
-## 📚 Student Management System
-
-Academic management system for handling students, courses, subjects, and admin operations with full CRUD functionality.
-
-**Tech Stack:** PHP, MySQL, HTML5, CSS3, JavaScript, Bootstrap
-
-🔗 Repository: https://github.com/vatsalgajera-tech/Student-Management-System
-
---
-
-## 🛒 Shree Vastra – eCommerce Website
-
-Full-stack MERN eCommerce platform featuring OTP authentication, Razorpay integration, product management, cart functionality, and order tracking.
-
-**Tech Stack:** React.js, Vite, Tailwind CSS, Redux Toolkit, Node.js, Express.js, MongoDB Atlas
-
-🔗 Repository: https://github.com/vatsalgajera-tech/eCommerce-Website
-
---
-
-## 🏨 Hotel Management System
-
-Hotel booking and management platform with room reservations, admin dashboard, billing, and customer management.
-
-**Tech Stack:** Python, Django, MySQL, HTML5, CSS3, JavaScript, Bootstrap
-
-🔗 Repository: https://github.com/vatsalgajera-tech/Hotel-Management-System
-
---
-
-## 🎬 Netflix Clone
-
-Netflix-inspired streaming platform with authentication, watchlists, video streaming, search functionality, and custom admin dashboard.
-
-**Tech Stack:** Python, Django, SQLite, HTML5, CSS3, JavaScript
-
-🔗 Repository: https://github.com/vatsalgajera-tech/Netflix-Clone
+🔗 [Repository](https://github.com/vatsalgajera-tech/Hackathon-2026)
 
 ---
+
+## 🎓 Nexus University Management System
+Role-based platform for managing students, faculty, courses, notices, and academic workflows.
+
+**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
+
+🔗 [Repository](https://github.com/vatsalgajera-tech/University-Management-System)
+
+🌐 [Live Demo](https://nexusuniversity.vercel.app/)
+
+📧 Demo: `vatsalgajera2005@gmail.com`
+🔑 Password: `vatsal123`
+
+---
+
+## 🛒 Shree Vastra
+Full-stack MERN eCommerce platform with OTP authentication, Razorpay payments, cart management, and order tracking.
+
+**Tech:** React.js • Node.js • MongoDB • Redux Toolkit • Tailwind CSS
+
+🔗 [Repository](https://github.com/vatsalgajera-tech/eCommerce-Website}
+
+---
+
+## 🏨 Hotel Management System
+Hotel booking and management system with reservations, billing, and admin dashboard.
+
+**Tech:** Python • Django • MySQL
+
+🔗 [Repository](https://github.com/vatsalgajera-tech/Hotel-Management-System)
+
+---
+
+## 📚 Student Management System
+Academic management system for student records, courses, attendance, and administration.
+
+**Tech:** PHP • MySQL • Bootstrap
+
+🔗 [Repository](https://github.com/vatsalgajera-tech/Student-Management-System)
+
+--
 
 # 🤝 Connect With Me
 
