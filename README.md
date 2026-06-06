@@ -91,7 +91,7 @@
 
 # 🚀 Featured Projects
 
-## 🏆 VendorBridge AI – Procurement & Vendor Management ERP
+## 🏆 VendorBridge AI
 
 AI-powered Procurement ERP platform, VendorBridge AI streamlines the complete procurement lifecycle by enabling organizations to manage vendors, create RFQs, compare quotations, process approvals, generate purchase orders, create invoices, and track procurement activities from a centralized platform.
 
