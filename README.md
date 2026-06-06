@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vatsal Gajera</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🌐 Python Developer | 🤖 AI/ML Explorer
+💻 Full Stack Developer | 🚀 MERN Stack Developer | 📊 Aspiring Data Scientist | 🤖 AI-Powered Application Builder
 </h3>
 
 <p align="center">
@@ -19,11 +19,18 @@
 
 # 🚀 About Me
 
-- 🎓 Pursuing a **Master of Computer Applications (MCA)** at **Dharmsinh Desai University**
-- 💻 Skilled in **Python, MERN Stack, MySQL, and MongoDB**
-- 🌱 Exploring **Artificial Intelligence, Machine Learning, and Data Science**
-- 🚀 Passionate about building scalable, user-centric, and real-world applications
-- 📚 Continuously learning and improving through development and open-source contributions
+🎓 Pursuing Master of Computer Applications (MCA)
+
+💻 Experienced with MERN Stack, Python, MongoDB, MySQL, and REST APIs
+
+📊 Passionate about Data Science, Machine Learning, and AI-driven applications
+
+🏆 Hackathon Participant, Open Source Contributor, and Problem Solver
+
+🌱 Continuously learning system design, cloud technologies, and enterprise application development
+
+🚀 Interested in Full Stack Development, Data Science, AI Engineering, and Enterprise Software
+
 
 ---
 
@@ -124,20 +131,26 @@
 
 # 🚀 Featured Projects
 
+🏆 VendorBridge AI – Procurement & Vendor Management ERP
+
+AI-powered Procurement ERP platform, VendorBridge AI streamlines the complete procurement lifecycle by enabling organizations to manage vendors, create RFQs, compare quotations, process approvals, generate purchase orders, create invoices, and track procurement activities from a centralized platform.
+
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT Authentication
+
+🔗 Repository: https://github.com/vatsalgajera-tech/Hackathon-2026
+
 ## 🎓 Nexus University Management System
 
 Role-based university management platform for Admins, Professors, and Students with authentication, dashboards, course management, notices, and file uploads.
 
-**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT
+**Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT Authentication
 
 🔗 Repository: https://github.com/vatsalgajera-tech/University-Management-System
 
 🔴 Live Demo: https://nexusuniversity.vercel.app/
 
-Student Login Credentials :
-
+**Student Login Credentials :**
 Mail - vatsalgajera2005@gmail.com
-
 Password - vatsal123
 
 --
@@ -152,16 +165,6 @@ Academic management system for handling students, courses, subjects, and admin o
 
 --
 
-## 🏨 Hotel Management System
-
-Hotel booking and management platform with room reservations, admin dashboard, billing, and customer management.
-
-**Tech Stack:** Python, Django, MySQL, HTML5, CSS3, JavaScript, Bootstrap
-
-🔗 Repository: https://github.com/vatsalgajera-tech/Hotel-Management-System
-
---
-
 ## 🛒 Shree Vastra – eCommerce Website
 
 Full-stack MERN eCommerce platform featuring OTP authentication, Razorpay integration, product management, cart functionality, and order tracking.
@@ -169,6 +172,16 @@ Full-stack MERN eCommerce platform featuring OTP authentication, Razorpay integr
 **Tech Stack:** React.js, Vite, Tailwind CSS, Redux Toolkit, Node.js, Express.js, MongoDB Atlas
 
 🔗 Repository: https://github.com/vatsalgajera-tech/eCommerce-Website
+
+--
+
+## 🏨 Hotel Management System
+
+Hotel booking and management platform with room reservations, admin dashboard, billing, and customer management.
+
+**Tech Stack:** Python, Django, MySQL, HTML5, CSS3, JavaScript, Bootstrap
+
+🔗 Repository: https://github.com/vatsalgajera-tech/Hotel-Management-System
 
 --
 
