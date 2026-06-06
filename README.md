@@ -139,7 +139,7 @@ Academic management system for student records, courses, attendance, and adminis
 
 🔗 [Repository](https://github.com/vatsalgajera-tech/Student-Management-System)
 
---
+---
 
 # 🤝 Connect With Me
 
