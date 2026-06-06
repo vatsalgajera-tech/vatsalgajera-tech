@@ -40,7 +40,7 @@
 | **Languages**          | Python, Java, JavaScript, HTML5, CSS3          |
 | **Frontend**           | React.js, Tailwind CSS, Vite                   |
 | **Backend**            | Node.js, Express.js, Django                    |
-| **Databases**          | MongoDB, MySQL, SQLite                         |
+| **Databases**          | MongoDB, MySQL, PostgreSQL                     |
 | **Tools**              | Git, GitHub, Postman, VS Code                  |
 | **Deployment**         | Vercel, Render                                 |
 | **Currently Learning** | Data Science, Machine Learning, AI Engineering |
