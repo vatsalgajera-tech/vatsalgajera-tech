@@ -29,7 +29,7 @@
 
 🌱 Continuously learning system design, cloud technologies, and enterprise application development
 
-🚀 Interested in Full Stack Development, Data Science, AI Engineering, and Enterprise Software
+🚀 Interested in Full Stack Development, Data Science and AI Engineering
 
 
 ---
@@ -85,7 +85,6 @@
   <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI_Engineering-8A2BE2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Enterprise_Software-0A66C2?style=for-the-badge" />
 </p>
 
 ---
@@ -112,7 +111,7 @@ Role-based university management platform for Admins, Professors, and Students w
 
 🔴 Live Demo: https://nexusuniversity.vercel.app/
 
-**Student Login Credentials :** <p> `vatsalgajera2005@gmail.com` and vatsal123 </p>
+**Student Login Credentials :** `vatsalgajera2005@gmail.com` and `vatsal123`
 
 --
 
