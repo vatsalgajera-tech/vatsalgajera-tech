@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vatsal Gajera</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🚀 MERN Stack Developer | 📊 Aspiring Data Scientist | 🤖 AI-Powered Application Builder
+💻 Full Stack Developer | 🚀 MERN Stack Developer | 📊 Aspiring Data Scientist 
 </h3>
 
 <p align="center">
