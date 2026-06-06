@@ -91,8 +91,6 @@
 
 # 🚀 Featured Projects
 
-# 🚀 Featured Projects
-
 ## 🏆 VendorBridge AI
 AI-powered Procurement & Vendor Management ERP for RFQs, quotations, approvals, purchase orders, invoices, and analytics.
 
