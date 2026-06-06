@@ -119,7 +119,7 @@ Full-stack MERN eCommerce platform with OTP authentication, Razorpay payments, c
 
 **Tech:** React.js • Node.js • MongoDB • Redux Toolkit • Tailwind CSS
 
-🔗 [Repository](https://github.com/vatsalgajera-tech/eCommerce-Website}
+🔗 [Repository](https://github.com/vatsalgajera-tech/eCommerce-Website)
 
 ---
 
@@ -144,21 +144,19 @@ Academic management system for student records, courses, attendance, and adminis
 # 🤝 Connect With Me
 
 <p align="center">
+  <a href="https://github.com/vatsalgajera-tech" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-<a href="https://github.com/vatsalgajera-tech" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
+  <a href="https://www.linkedin.com/in/vatsalgajera/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/vatsalgajera/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+  <a href="mailto:vatsalgajera.tech@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
-<a href="mailto:vatsalgajera.tech@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-
-<a href="https://www.instagram.com/gajera_vatsal_/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
-
+  <a href="https://www.instagram.com/gajera_vatsal_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
