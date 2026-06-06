@@ -151,8 +151,7 @@ Role-based university management platform for Admins, Professors, and Students w
 
 🔴 Live Demo: https://nexusuniversity.vercel.app/
 
-**Student Login Credentials :**
-<p> vatsalgajera2005@gmail.com and vatsal123 </p>p>
+**Student Login Credentials :** <p> vatsalgajera2005@gmail.com and vatsal123 </p>
 
 --
 
