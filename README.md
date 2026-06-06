@@ -131,13 +131,15 @@
 
 # 🚀 Featured Projects
 
-🏆 VendorBridge AI – Procurement & Vendor Management ERP
+## 🏆 VendorBridge AI – Procurement & Vendor Management ERP
 
 AI-powered Procurement ERP platform, VendorBridge AI streamlines the complete procurement lifecycle by enabling organizations to manage vendors, create RFQs, compare quotations, process approvals, generate purchase orders, create invoices, and track procurement activities from a centralized platform.
 
 **Tech Stack:** React.js, Node.js, Express.js, MongoDB, Tailwind CSS, JWT Authentication
 
 🔗 Repository: https://github.com/vatsalgajera-tech/Hackathon-2026
+
+--
 
 ## 🎓 Nexus University Management System
 
