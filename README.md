@@ -103,7 +103,7 @@ Role-based platform for managing students, faculty, courses, notices, and academ
 
 **Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
 
-🔗 [Repository](https://github.com/vatsalgajera-tech/University-Management-System)                     🌐 [Live Demo](https://nexusuniversity.vercel.app/)
+🔗 [Repository](https://github.com/vatsalgajera-tech/University-Management-System) | 🌐 [Live Demo](https://nexusuniversity.vercel.app/)
 
 ---
 
