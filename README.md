@@ -125,16 +125,13 @@ Console-based Java application for vehicle parking management with slot allocati
 
 ---
 
-# 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vatsalgajera-tech&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vatsalgajera-tech&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vatsalgajera-tech&theme=tokyonight" />
-</p>
+  <img src="https
 
 ---
 
