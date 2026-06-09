@@ -107,9 +107,6 @@ Role-based platform for managing students, faculty, courses, notices, and academ
 
 🌐 [Live Demo](https://nexusuniversity.vercel.app/)
 
-📧 Demo: `vatsalgajera2005@gmail.com`
-🔑 Password: `vatsal123`
-
 ---
 
 ## 🛒 Shree Vastra
