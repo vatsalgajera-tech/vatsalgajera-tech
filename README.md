@@ -1,11 +1,11 @@
 <h1 align="center">Hey 👋, I'm Vatsal Gajera</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🚀 MERN Stack Developer | 📊 Aspiring Data Scientist 
+💻 Full Stack Developer | 🚀 MERN Stack Developer | 🤖 AI/ML Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate+Learner;Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Explorer;Building+Real-World+Projects&center=true&width=650&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;MERN+Stack+Developer;AI%2FML+Enthusiast;Problem+Solver;Building+Scalable+Applications&center=true&width=650&height=45">
 </p>
 
 <p align="center">
@@ -21,16 +21,15 @@
 
 🎓 Pursuing Master of Computer Applications (MCA)
 
-💻 Experienced with MERN Stack, Python, MongoDB, MySQL, and REST APIs
+💻 Building scalable web applications using MERN Stack and modern web technologies
 
-📊 Passionate about Data Science, Machine Learning, and AI-driven applications
+📊 Exploring Data Science, Machine Learning, and AI-powered solutions
 
 🏆 Hackathon Participant, Open Source Contributor, and Problem Solver
 
-🌱 Continuously learning system design, cloud technologies, and enterprise application development
+🌱 Learning System Design, Cloud Technologies, and Enterprise Software Development
 
-🚀 Interested in Full Stack Development, Data Science and AI Engineering
-
+🚀 Interested in Full Stack Development, AI Engineering, and Data Science
 
 ---
 # ⚡ Technologies & Tools
@@ -55,7 +54,6 @@
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
 ### Databases
@@ -123,21 +121,12 @@ Full-stack MERN eCommerce platform with OTP authentication, Razorpay payments, c
 
 ---
 
-## 🏨 Hotel Management System
-Hotel booking and management system with reservations, billing, and admin dashboard.
+## 🚗 Parking Management System
+Console-based Java application for vehicle parking management with slot allocation, vehicle tracking, search functionality, parking summaries, and report generation.
 
-**Tech:** Python • Django • MySQL
+**Tech:** Java • OOP • Collections Framework
 
-🔗 [Repository](https://github.com/vatsalgajera-tech/Hotel-Management-System)
-
----
-
-## 📚 Student Management System
-Academic management system for student records, courses, attendance, and administration.
-
-**Tech:** PHP • MySQL • Bootstrap
-
-🔗 [Repository](https://github.com/vatsalgajera-tech/Student-Management-System)
+🔗 [Repository](https://github.com/vatsalgajera-tech/Parking-Management-System)
 
 ---
 
