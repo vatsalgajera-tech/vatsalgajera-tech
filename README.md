@@ -127,6 +127,10 @@ Console-based Java application for vehicle parking management with slot allocati
 
 # 🤝 Connect With Me
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vatsalgajera-tech&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</p>
+
 <p align="center">
   <a href="https://github.com/vatsalgajera-tech" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
