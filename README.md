@@ -17,22 +17,6 @@
 
 ---
 
-# 🚀 About Me
-
-🎓 Pursuing Master of Computer Applications (MCA)
-
-💻 Building scalable web applications using MERN Stack and modern web technologies
-
-📊 Exploring Data Science, Machine Learning, and AI-powered solutions
-
-🏆 Hackathon Participant, Open Source Contributor, and Problem Solver
-
-🌱 Learning System Design, Cloud Technologies, and Enterprise Software Development
-
-🚀 Interested in Full Stack Development, AI Engineering, and Data Science
-
----
-
 # ⚡ Technologies & Tools
 
 ## Languages
