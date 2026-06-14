@@ -101,13 +101,6 @@
   <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
 
-## Currently Exploring
-<p>
-  <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI_Engineering-8A2BE2?style=for-the-badge" />
-</p>
-
 ---
 
 # 🚀 Featured Projects
