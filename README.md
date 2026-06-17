@@ -1,5 +1,13 @@
 <h1 align="center">Hey 👋, I'm Vatsal Gajera</h1>
 
+# 📈 GitHub Analytics
+
+![Stats](https://github-readme-stats.vercel.app/api?username=vatsalgajera-tech&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgajera-tech&layout=donut&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com?user=vatsalgajera-tech&theme=tokyonight)
+
 <h3 align="center">
 💻 Full Stack Developer | 🚀 MERN Stack Developer | 🤖 AI/ML Enthusiast
 </h3>
