@@ -123,6 +123,12 @@ Console-based Java application for vehicle parking management with slot allocati
 
 ---
 
+## 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgajera-tech&layout=compact&theme=tokyonight)
+
+---
+
 # 🤝 Connect With Me
 
 <p align="center">
