@@ -128,7 +128,7 @@ Console-based Java application for vehicle parking management with slot allocati
 
 🔗 [Repository](https://github.com/vatsalgajera-tech/Parking-Management-System)
 
-
+---
 
 # 🤝 Connect With Me
 
