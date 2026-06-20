@@ -102,7 +102,6 @@ AI-powered Procurement & Vendor Management ERP for RFQs, quotations, approvals, 
 
 🔗 [Repository](https://github.com/vatsalgajera-tech/Hackathon-2026)
 
----
 
 ## 🎓 Nexus University Management System
 Role-based platform for managing students, faculty, courses, notices, and academic workflows.
@@ -111,7 +110,7 @@ Role-based platform for managing students, faculty, courses, notices, and academ
 
 🔗 [Repository](https://github.com/vatsalgajera-tech/University-Management-System) | 🌐 [Live Demo](https://nexusuniversity.vercel.app/)
 
----
+
 
 ## 🛒 Shree Vastra
 Full-stack MERN eCommerce platform with OTP authentication, Razorpay payments, cart management, and order tracking.
@@ -120,7 +119,7 @@ Full-stack MERN eCommerce platform with OTP authentication, Razorpay payments, c
 
 🔗 [Repository](https://github.com/vatsalgajera-tech/eCommerce-Website)
 
----
+
 
 ## 🚗 Parking Management System
 Console-based Java application for vehicle parking management with slot allocation, vehicle tracking, search functionality, parking summaries, and report generation.
@@ -129,7 +128,7 @@ Console-based Java application for vehicle parking management with slot allocati
 
 🔗 [Repository](https://github.com/vatsalgajera-tech/Parking-Management-System)
 
----
+
 
 # 🤝 Connect With Me
 
