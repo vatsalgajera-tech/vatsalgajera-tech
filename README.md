@@ -87,7 +87,7 @@
 
 # 🚀 Featured Projects
 
-##🦠 COVID-19 Data Analytics
+## 🦠 COVID-19 Data Analytics
 Comprehensive COVID-19 data analysis project focused on data cleaning, exploratory data analysis (EDA), trend analysis, and visualization to uncover insights on infection rates, recovery patterns, mortality trends, and vaccination progress.
 
 Tech: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
