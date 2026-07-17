@@ -85,53 +85,6 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🦠 COVID-19 Data Analytics
-Comprehensive COVID-19 data analysis project focused on data cleaning, exploratory data analysis (EDA), trend analysis, and visualization to uncover insights on infection rates, recovery patterns, mortality trends, and vaccination progress.
-
-Tech: Python • Pandas • NumPy • Matplotlib • Seaborn • Jupyter Notebook
-
-🔗 [Repoaitory](https://github.com/vatsalgajera-tech/COVID-19-Data-Analytics)
-
----
-
-## 🏆 VendorBridge AI
-AI-powered Procurement & Vendor Management ERP for RFQs, quotations, approvals, purchase orders, invoices, and analytics.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT
-
-🔗 [Repository](https://github.com/vatsalgajera-tech/Hackathon-2026)
-
----
-
-## 🎓 Nexus University Management System
-Role-based platform for managing students, faculty, courses, notices, and academic workflows.
-
-**Tech:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS
-
-🔗 [Repository](https://github.com/vatsalgajera-tech/University-Management-System) | 🌐 [Live Demo](https://nexusuniversity.vercel.app/)
-
----
-
-## 🛒 Shree Vastra
-Full-stack MERN eCommerce platform with OTP authentication, Razorpay payments, cart management, and order tracking.
-
-**Tech:** React.js • Node.js • MongoDB • Redux Toolkit • Tailwind CSS
-
-🔗 [Repository](https://github.com/vatsalgajera-tech/eCommerce-Website)
-
----
-
-## 🚗 Parking Management System
-Console-based Java application for vehicle parking management with slot allocation, vehicle tracking, search functionality, parking summaries, and report generation.
-
-**Tech:** Java • OOP • Collections Framework
-
-🔗 [Repository](https://github.com/vatsalgajera-tech/Parking-Management-System)
-
----
-
 # 🤝 Connect With Me
 
 <p align="center">
