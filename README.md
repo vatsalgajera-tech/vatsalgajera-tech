@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vatsal Gajera</h1>
 
 <h3 align="center">
-💻 Full Stack Developer | 🚀 MERN Stack Developer | 🤖 AI/ML Enthusiast
+💻 Data Analyst | 🚀 Data Scientist | 🤖 AI/ML Enthusiast
 </h3>
 
 <p align="center">
@@ -40,7 +40,7 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
-## Data Visualization & BI
+## Data Analysis & Visualization 
 <p>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
