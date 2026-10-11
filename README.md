@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Vatsal R. Gajera</h1>
+<h1 align="center">Hey 👋, I'm Vatsal Gajera</h1>
 
 <h3 align="center">
 Data Analyst | Data Scientist | AI/ML Enthusiast | Data Engineer
