@@ -81,6 +81,17 @@
 
 ---
 
+# 📊 Most Used Languages Across My Repositories
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgajera-tech&layout=donut&theme=tokyonight&langs_count=10&hide_border=true"
+    alt="Most Used Languages Across All Repositories"
+  />
+</p>
+
+---
+
 # 🤝 Connect With Me
 
 <p align="center">
