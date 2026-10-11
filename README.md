@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Vatsal Gajera</h1>
 
 <h3 align="center">
-💻 Data Analyst | 🚀 Data Scientist | 🤖 AI/ML Enthusiast
+Data Analyst | Data Scientist | AI/ML Enthusiast | Data Engineer
 </h3>
 
 <p align="center">
