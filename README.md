@@ -85,8 +85,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgajera-tech&layout=donut&theme=tokyonight&langs_count=10&hide_border=true"
-    alt="Most Used Languages Across All Repositories"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vatsalgajera-tech&layout=donut&theme=tokyonight&langs_count=10&hide_border=true&hide=html,css"
+    alt="Most Used Languages"
   />
 </p>
 
